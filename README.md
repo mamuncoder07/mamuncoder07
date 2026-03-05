@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/mamun_raj07">
+<a href="https://instagram.com/mamunraj07.py">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
